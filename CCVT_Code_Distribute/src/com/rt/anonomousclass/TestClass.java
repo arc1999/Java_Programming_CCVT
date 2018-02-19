@@ -10,14 +10,14 @@ public class TestClass {
 		Greeting obj=new Greeting(){
 			
 			@Override
-			public void print() {
+			public void prin() {
 				// TODO Auto-generated method stub
 				System.out.println("Hello World");
 				
 			}
 		};
 		
-		obj.print();
+		obj.prin();
 		
 	}
 
